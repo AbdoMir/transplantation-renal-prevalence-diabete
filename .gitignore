@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Documents de travail lourds, non necessaires a la reproduction
+*.sdocx
+
+# Systeme et editeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.ipynb_checkpoints/
+
+# Documents de cours, non redistribues.
+# Les consignes d'examen appartiennent a l'enseignant. Les donnees SNDS
+# elles-memes sont de l'open data et restent versionnees.
+doc/2026-04 Instruction pour examen 11 mai 2026.pdf
+doc/Question a se poser.pdf
+
+# Dossier doc : consignes d'examen, notes de travail et presentation de
+# groupe. Rien de tout cela n'a a figurer sur un depot public.
+doc/
